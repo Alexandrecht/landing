@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css2?family=Cabin:wght@600&family=Raleway&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Cabin', sans-serif;
+	font-size: 18px;
+	margin: 0px ;
+}
+
+h1{
+	font-family: 'Cabin', sans-serif;
+	font-size: 100px;
+}
+h2, h3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: bold;
+}
+a{
+	text-decoration: none;
+}
+
